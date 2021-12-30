@@ -1,0 +1,10 @@
+<theme>
+   	<formatVersion>3</formatVersion>
+    	<include>./../theme.xml</include>
+    	<variables>    	
+		<iconRom>./assets/rom/${system.theme}.png</iconRom>
+		<imgTile>./assets/tile.png</imgTile>		
+		<padRight>0.1572916668</padRight>
+		<layoutTile>4 2</layoutTile>	
+	</variables>	
+</theme>

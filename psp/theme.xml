@@ -1,0 +1,10 @@
+<theme>
+   	<formatVersion>3</formatVersion>
+    	<include>./../theme.xml</include>
+    	<variables>    	
+		<iconRom>./assets/rom/psp.png</iconRom>
+		<imgTile>./${system.theme}/tile.png</imgTile>		
+		<padRight>0.078125</padRight>
+		<layoutTile>7 2</layoutTile>	
+	</variables>	
+</theme>

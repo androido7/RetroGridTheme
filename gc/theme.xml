@@ -1,0 +1,10 @@
+<theme>
+   	<formatVersion>3</formatVersion>
+    	<include>./../theme.xml</include>
+    	<variables>    	
+		<iconRom>./assets/rom/dvd.svg</iconRom>
+		<imgTile>./assets/tileDVD.png</imgTile>	
+		<layoutTile>6 2</layoutTile>		
+		<padRight>0.071875</padRight>
+	</variables>	
+</theme>

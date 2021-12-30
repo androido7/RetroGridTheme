@@ -1,0 +1,11 @@
+<theme>
+   	<formatVersion>3</formatVersion>
+    	<include>./../theme.xml</include>
+    	<variables>    	
+		<iconRom>./assets/rom/dvd.svg</iconRom>
+		<imgTile>./${system.theme}/tile.png</imgTile>
+		<wallpaper>./assets/wallpaper/ps2.png</wallpaper>		
+		<padRight>0.071875</padRight>
+		<layoutTile>6 2</layoutTile>	
+	</variables>	
+</theme>
