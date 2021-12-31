@@ -2,6 +2,6 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
-		<iconRom>./assets/rom/${system.theme}.png</iconRom>
+		<iconRom>./assets/rom/nes.png</iconRom>
 	</variables>	
 </theme>
