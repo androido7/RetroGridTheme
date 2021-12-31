@@ -2,7 +2,7 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
-		<imgTile>./${system.theme}/tile.png</imgTile>		
+		<imgTile>./${system.theme}/psv.png</imgTile>		
 		<padRight>0.15208333</padRight>
 		<layoutTile>5 2</layoutTile>	
 	</variables>	
