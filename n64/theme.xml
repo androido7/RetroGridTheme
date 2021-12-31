@@ -2,8 +2,8 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
-		<iconRom>./assets/rom/snes.png</iconRom>
-		<imgTile>./${system.theme}/tile.png</imgTile>	
+		<iconRom>./assets/rom/n64.png</iconRom>
+		<imgTile>./n64/tile.png</imgTile>	
 		<layoutTile>3 2</layoutTile>		
 		<padRight>0.165649</padRight>
 	</variables>	
