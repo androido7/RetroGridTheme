@@ -3,7 +3,7 @@
     	<include>./../theme.xml</include>
     	<variables>    	
 		<iconRom>./assets/rom/snes.png</iconRom>
-		<imgTile>./${system.theme}/tile.png</imgTile>	
+		<imgTile>./snes/tile.png</imgTile>	
 		<padRight>0.165649</padRight>
 		<layoutTile>3 2</layoutTile>	
 		<imgSelect>./assets/select13.png</imgSelect>
