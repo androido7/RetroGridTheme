@@ -165,7 +165,7 @@
 		</imagegrid>
 		<gridtile name="default">
 			<padding>${padTile}</padding>
-			<backgroundImage>${imgTile}</backgroundImage>
+			<!--<backgroundImage>${imgTile}</backgroundImage> -->
 			<imageColor>DDDDDD</imageColor>
 			<backgroundColor>FFFFFF</backgroundColor>
 		</gridtile>
