@@ -2,8 +2,8 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
-		<iconRom>./assets/rom/${system.theme}.png</iconRom>
-		<imgTile>./${system.theme}/tile.png</imgTile>	
+		<iconRom>./assets/rom/nds.png</iconRom>
+		<imgTile>./nds/tile.png</imgTile>	
 		<padRight>0.072916667</padRight>
 		<layoutTile>4 2</layoutTile>	
 	</variables>	
