@@ -167,7 +167,7 @@
 			<padding>${padTile}</padding>
 			<!--<backgroundImage>${imgTile}</backgroundImage> -->
 			<imageColor>DDDDDD</imageColor>
-			<backgroundColor>000000</backgroundColor>
+			<backgroundColor>00000000</backgroundColor>
 		</gridtile>
 		<gridtile name="selected">
 			<backgroundImage>${imgSelect}</backgroundImage>
