@@ -1,7 +1,12 @@
 # RetroGridTheme
 
-<a href="url"><img src="https://raw.githubusercontent.com/androido7/RetroGridTheme/main/Preview.png"   width="640" height="360" ></a>
 
+
+| ![preview](Preview.png) |
+|:--:|
+|  Preview |
+
+  
 **Custom theme for Emulationstation**
 
 - This porject is just a hobby (aka low priority) 
