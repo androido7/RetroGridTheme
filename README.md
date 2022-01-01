@@ -12,9 +12,9 @@
 
 # Goals
 
-- Prefect **Grid** view for most systems
-- Start **Details** view 
-- Star **Video** view (match details view?)
-- Make icons for all systems
-- Theme colors match each system (like how SNES has purple)
-- Remake some assets to match the style of the rom images.
+- [ ] Prefect **Grid** view for most systems
+- [ ] Start **Details** view 
+- [ ] Star **Video** view (match details view?)
+- [ ] Make icons for all systems
+- [ ] Theme colors match each system (like how SNES has purple)
+- [x] Remake some assets to match the style of the rom images
