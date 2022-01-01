@@ -16,9 +16,9 @@
 		
 		<wallpaper>./assets/wallpaper.png</wallpaper>
 		
-		<iconSystem>./assets/icon/${system.theme}.svg</iconSystem>
-		<iconRom>./assets/rom.svg</iconRom>	
-		<iconFolder>./assets/folder.svg</iconFolder>
+		<iconSystem>./assets/icon.png</iconSystem>
+		<iconRom>./assets/rom.png</iconRom>	
+		<iconFolder>./assets/folder.png</iconFolder>
 		
 		<!-- Default location for images  -->
 		<imgSelect>./assets/select0.png</imgSelect>
