@@ -65,7 +65,7 @@
 		</carousel>
 		<image name="logo">
 			<path>./assets/system/${system.theme}.png</path>
-			<default>./assets/icon.svg</default>
+			<default>./assets/icon.png</default>
         		</image>	
         		
 		<image name="label" extra="true">
@@ -181,7 +181,7 @@
 			
 		<image name="iconSystem" extra="true">
 			<path>${iconSystem}</path>
-			<default>./assets/icon.svg</default>
+			<default>./assets/icon.png</default>
 			<pos>0.046875 0.93096</pos>
 			<maxSize>0.03125 0.05556</maxSize>
 			<origin>0.5 0.5</origin>

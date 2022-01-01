@@ -2,8 +2,8 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
+		<wallpaper>./assets/wallpaper/snes.png</wallpaper>
 		<iconRom>./assets/rom/snes.png</iconRom>
-		<imgTile>./snes/tile.png</imgTile>	
 		<padRight>0.165649</padRight>
 		<layoutTile>3 2</layoutTile>	
 		<imgSelect>./assets/select13.png</imgSelect>
