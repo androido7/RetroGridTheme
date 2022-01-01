@@ -19,12 +19,14 @@
 		<iconSystem>./assets/icon/${system.theme}.svg</iconSystem>
 		<iconRom>./assets/rom.svg</iconRom>	
 		<iconFolder>./assets/folder.svg</iconFolder>
-			
+		
+		<!-- Default location for images  -->
 		<imgSelect>./assets/select0.png</imgSelect>
 		<imgTile>./assets/tileRetro.png</imgTile>
 		<imgFade>./assets/fade.png</imgFade>
 		<imgLogo>./assets/logo/${system.theme}.svg</imgLogo>
-		                 						
+		
+		<!-- Layout options for Grid view. Default is 6 col 2 row  -->    
 		<padTile>0.0125 0.0222</padTile>			
 		<padGrid>0.025 0.05 0.040168 0.05</padGrid>	
 		<padRight>0.04375</padRight>
