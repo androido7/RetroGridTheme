@@ -23,3 +23,20 @@
 - [ ] Make icons for all systems
 - [ ] Theme colors match each system (like how SNES has purple)
 - [x] Remake some assets to match the style of the rom images
+
+# Credits / Legal
+
+### Poppins Font
+Designed by Indian Type Foundry, Jonny Pinhorn - [Open Font License](assets/Font%20License.txt)
+
+
+### Rom, Icon, and Wallpaper Images
+Designed by [Androido7](https://www.github.com/androido7)
+
+
+### Console Images
+By [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos) - public domain
+
+
+### System Logos
+!todo
