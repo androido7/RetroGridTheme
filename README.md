@@ -1,12 +1,9 @@
 # RetroGridTheme
 
-
-
 | ![preview](Preview.png) |
 |:--:|
 |  Preview |
 
-  
 **Custom theme for Emulationstation**
 
 - This porject is just a hobby (aka low priority) 
@@ -26,17 +23,16 @@
 
 # Credits / Legal
 
-### Poppins Font
+### [Poppins](https://fonts.google.com/specimen/Poppins) Font 
 Designed by Indian Type Foundry, Jonny Pinhorn - [Open Font License](assets/Font%20License.txt)
 
-
-### Rom, Icon, and Wallpaper Images
-Designed by [Androido7](https://www.github.com/androido7)
 
 
 ### Console Images
 By [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos) - public domain
 
+### Rom, Icon, and Wallpaper Images
+Designed by [Androido7](https://www.github.com/androido7)
 
 ### System Logos
 !todo
