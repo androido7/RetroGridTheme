@@ -3,7 +3,6 @@
     	<include>./../theme.xml</include>
     	<variables>    	
 		<iconRom>./assets/rom/nds.png</iconRom>
-		<imgTile>./nds/tile.png</imgTile>	
 		<padRight>0.072916667</padRight>
 		<layoutTile>4 2</layoutTile>	
 	</variables>	

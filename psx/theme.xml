@@ -3,7 +3,6 @@
     	<include>./../theme.xml</include>
     	<variables>    	
 		<iconRom>./assets/rom/dvd.png</iconRom>
-		<imgTile>./psx/tile.png</imgTile>		
 		<padRight>0.1416667</padRight>
 		<layoutTile>4 2</layoutTile>	
 	</variables>	

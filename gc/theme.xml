@@ -2,8 +2,7 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
-		<iconRom>./assets/rom/mdvd.png</iconRom>
-		<imgTile>./assets/tileDVD.png</imgTile>	
+		<iconRom>./assets/rom/mdvd.png</iconRom>	
 		<layoutTile>6 2</layoutTile>		
 		<padRight>0.071875</padRight>
 	</variables>	

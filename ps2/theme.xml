@@ -2,8 +2,7 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
-		<iconRom>./assets/rom/dvd.png</iconRom>
-		<imgTile>./ps2/tile.png</imgTile>		
+		<iconRom>./assets/rom/dvd.png</iconRom>	
 		<padRight>0.071875</padRight>
 		<layoutTile>6 2</layoutTile>	
 	</variables>	

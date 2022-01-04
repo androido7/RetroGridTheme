@@ -3,7 +3,6 @@
     	<include>./../theme.xml</include>
     	<variables>    	
 		<iconRom>./assets/rom/dvd.png</iconRom>
-		<imgTile>./xbox/tile.png</imgTile>
 		<wallpaper>./assets/wallpaper/ps2.png</wallpaper>		
 		<padRight>0.071875</padRight>
 		<layoutTile>6 2</layoutTile>	

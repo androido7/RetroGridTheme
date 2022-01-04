@@ -2,8 +2,7 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
-		<iconRom>./assets/rom/umd.png</iconRom>
-		<imgTile>./psp/tile.png</imgTile>		
+		<iconRom>./assets/rom/umd.png</iconRom>	
 		<padRight>0.078125</padRight>
 		<layoutTile>7 2</layoutTile>	
 	</variables>	

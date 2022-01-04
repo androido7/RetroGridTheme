@@ -3,7 +3,6 @@
     	<include>./../theme.xml</include>
     	<variables>    	
 		<iconRom>./assets/rom/n64.png</iconRom>
-		<imgTile>./n64/tile.png</imgTile>	
 		<layoutTile>3 2</layoutTile>		
 		<padRight>0.165649</padRight>
 	</variables>	

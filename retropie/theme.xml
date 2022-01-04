@@ -2,5 +2,6 @@
    	<formatVersion>3</formatVersion>
     	<include>./../theme.xml</include>
     	<variables>    	
+		<iconRom>./assets/rom.png</iconRom>
 	</variables>	
 </theme>
