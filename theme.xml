@@ -1,4 +1,8 @@
-<!-- Project by Androido7  -->
+<!-- 
+Project by Androido7  
+Version 0.01
+Built for Emulationstation
+-->
 <theme>
 	<variables>
 		<accentColor>497EB3</accentColor>
@@ -14,8 +18,7 @@
 		<fontReg>./assets/font.ttf</fontReg>
 		<fontThin>./assets/fontThin.ttf</fontThin>
 		
-		<wallpaper>./assets/wallpaper.png</wallpaper>
-		
+		<wallpaper>./assets/wallpaper.png</wallpaper>		
 		<iconSystem>./assets/icon.png</iconSystem>
 		<iconRom>./assets/rom.png</iconRom>	
 		<iconFolder>./assets/folder.png</iconFolder>
@@ -24,14 +27,12 @@
 		<imgSelect>./assets/select0.png</imgSelect>
 		<imgTile>./assets/tileRetro.png</imgTile>
 		<imgFade>./assets/fade.png</imgFade>
-		<imgLogo>./assets/logo/${system.theme}.svg</imgLogo>
 		
 		<!-- Layout options for Grid view. Default is 6 col 2 row  -->    
 		<padTile>0.0125 0.0222</padTile>			
 		<padGrid>0.025 0.05 0.040168 0.05</padGrid>	
 		<padRight>0.04375</padRight>
-		<layoutTile>6 2</layoutTile>	
-		
+		<layoutTile>6 2</layoutTile>			
 	</variables>
 	<view name="system">
 		<image name="background" extra="true">
@@ -69,13 +70,11 @@
         		</image>	
         		
 		<image name="label" extra="true">
-			<path>${imgLogo}</path>			
+			<path>./assets/logo/${system.theme}.svg</path>			
 			<pos>0.025 0.075</pos>
 			<maxSize>0.425 0.04</maxSize>
-			<origin>0.0 0.5</origin>
-			
-		</image>	
-        		
+			<origin>0.0 0.5</origin>			
+		</image>	        		
 		<text name="systemInfo">
 			<pos>0.5 0.95926</pos>
 			<size>1 0.075</size>
@@ -121,7 +120,7 @@
 			<fontSize>0.044</fontSize>
 		</text>
 		<image name="logo">
-			<path>${imgLogo}</path>			
+			<path>./assets/logo/${system.theme}.svg</path>			
 			<pos>0.025 0.075</pos>
 			<maxSize>0.425 0.04</maxSize>
 			<origin>0.0 0.5</origin>
@@ -177,8 +176,7 @@
 			<backgroundCornerSize>23 23</backgroundCornerSize>	
 			<imageColor>FFFFFF</imageColor>
 			<backgroundColor>FFFFFF</backgroundColor>
-		</gridtile>
-			
+		</gridtile>			
 		<image name="iconSystem" extra="true">
 			<path>${iconSystem}</path>
 			<default>./assets/icon.png</default>
