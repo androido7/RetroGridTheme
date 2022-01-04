@@ -193,7 +193,7 @@
 			<color>${accentLight}</color>
 			<fontPath>${fontReg}</fontPath>
 			<alignment>left</alignment>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.06</fontSize>
 		</text>
 	</view>
 </theme>
