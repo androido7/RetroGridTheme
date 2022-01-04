@@ -21,18 +21,26 @@
 - [ ] Theme colors match each system (like how SNES has purple)
 - [x] Remake some assets to match the style of the rom images
 
+
 # Credits / Legal
 
-### [Poppins](https://fonts.google.com/specimen/Poppins) Font 
-Designed by Indian Type Foundry, Jonny Pinhorn - [Open Font License](assets/Font%20License.txt)
-
-
+### Poppins Font 
+-  Designed by Indian Type Foundry, Jonny Pinhorn
+-  [Open Font License](assets/Font%20License.txt)
+-  [Google Fonts](https://fonts.google.com/specimen/Poppins) 
 
 ### Console Images
-By [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos) - public domain
+-  By Evan-Amos
+-  Public Domain
+-  [Wikimedia commons](https://commons.wikimedia.org/wiki/User:Evan-Amos)
 
 ### Rom, Icon, and Wallpaper Images
-Designed by [Androido7](https://www.github.com/androido7)
+-  Designed by Androido7
+-  (todo)
+-  [Github](https://www.github.com/androido7), [Twitter](https://www.twitter.com/androido7)
 
 ### System Logos
-!todo
+-  Designed by (todo)
+-  (todo)
+-  [Links]()
+
