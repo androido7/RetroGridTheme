@@ -84,7 +84,7 @@
 			<forceUppercase>1</forceUppercase>
 			<color>${accentLight}</color>	
 			<fontPath>${fontReg}</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.044</fontSize>
 		</text>		
 	</view>	
 	<view name="basic, detailed, video, grid">
@@ -118,7 +118,7 @@
 			<forceUppercase>1</forceUppercase>
 			<color>${colorLabel}</color>	
 			<fontPath>${fontReg}</fontPath>
-			<fontSize>0.033</fontSize>
+			<fontSize>0.044</fontSize>
 		</text>
 		<image name="logo">
 			<path>${imgLogo}</path>			
@@ -193,7 +193,7 @@
 			<color>${accentLight}</color>
 			<fontPath>${fontReg}</fontPath>
 			<alignment>left</alignment>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.044</fontSize>
 		</text>
 	</view>
 </theme>
