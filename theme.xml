@@ -157,7 +157,7 @@ Built for Emulationstation
 		<imagegrid name="gamegrid">
 			<pos>0 0.1</pos>
 			<size>1 0.825</size>
-			<margin>0.02 0.02</margin>
+			<margin>0.00 0.00</margin>
 			<padding>0.025 0.05 ${padRight} 0.05</padding>
 			<autoLayout>${layoutTile}</autoLayout>
 			<autoLayoutSelectedZoom>1.06</autoLayoutSelectedZoom>
